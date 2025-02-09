@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Mariam Ehab</h2>
 
 ###
-
-<img align="right" height="400" src="https://camo.githubusercontent.com/2e2e5fd8d7c0adc7a0854e6f269efdf0414c53b5460378a566d9819f6d3beae6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d74755a444231647a4e6e4d4442305a7a4e32636d67345a3235305a44427a62576c6e62584a714f544268626e5a79613239694f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3249756455486449303735484c3032506b6b2f67697068792e676966"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamehabshaaban&label=Profile%20views&color=0e75b6&style=flat" alt="mariamehabshaaban" /> </p>
+<img align="right" height="300" src="https://camo.githubusercontent.com/2e2e5fd8d7c0adc7a0854e6f269efdf0414c53b5460378a566d9819f6d3beae6/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d74755a444231647a4e6e4d4442305a7a4e32636d67345a3235305a44427a62576c6e62584a714f544268626e5a79613239694f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3249756455486449303735484c3032506b6b2f67697068792e676966"  />
 
 ###
 <h2 align="left">Skills</h2>
@@ -45,4 +45,12 @@
   </a>
 </div>
 
+
 ###
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariamehabshaaban&show_icons=true&locale=en&layout=compact" alt="mariamehabshaaban" /></div>
+
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamehabshaaban&show_icons=true&locale=en" alt="mariamehabshaaban" /></div>
+
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamehabshaaban&" alt="mariamehabshaaban" /></div>
+
