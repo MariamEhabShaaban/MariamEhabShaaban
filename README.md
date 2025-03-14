@@ -55,5 +55,4 @@
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamehabshaaban&show_icons=true&locale=en" alt="mariamehabshaaban" /></div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamehabshaaban&" alt="mariamehabshaaban" /></div>
 
